@@ -51,10 +51,6 @@ PRODUCT_PACKAGES += \
     SmartSpaceOffset \
     HideClock
 
-# Custom Overlays
-PRODUCT_PACKAGES += \
-    PixelLauncherOverlayCustom
-
 # Fonts
 PRODUCT_PACKAGES += \
     fonts_customization.xml \
